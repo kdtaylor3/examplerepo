@@ -1,0 +1,13 @@
+C:\Users\keila\Documents\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.exe
+C:\Users\keila\Documents\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.deps.json
+C:\Users\keila\Documents\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.runtimeconfig.json
+C:\Users\keila\Documents\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.runtimeconfig.dev.json
+C:\Users\keila\Documents\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.dll
+C:\Users\keila\Documents\source\repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.pdb
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.csprojAssemblyReference.cache
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.AssemblyInfoInputs.cache
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.AssemblyInfo.cs
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.csproj.CoreCompileInputs.cache
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.dll
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.pdb
+C:\Users\keila\Documents\source\repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace examplerepo
 {
@@ -6,7 +7,9 @@ namespace examplerepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("git is great!");
+            Console.WriteLine("hello");
         }
-    }
+             
+    }    
+
 }
